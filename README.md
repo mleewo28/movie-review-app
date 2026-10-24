@@ -43,10 +43,6 @@ Integrated a Node.js and Express backend to handle HTTP requests between the fro
 ### Database Management
 Used MySQL to manage relational data involving movies, users, and reviews. Implemented SQL queries to retrieve movie information, apply search criteria, and maintain review records.
 
-## Application Screenshots
-
-*Screenshots of the Landing, Search, Review, and My Reviews pages will be added here.*
-
 ## Getting Started
 
 This application was originally developed using a university-hosted MySQL database accessed through an SSH tunnel.
